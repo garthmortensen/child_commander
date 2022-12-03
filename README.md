@@ -1,8 +1,8 @@
-# Child Commander
+# Folder Commander
 
-Got children directories? This script accepts a terminal command, and runs it on all immediate child directories, depth = 1.
+This script accepts a terminal command, and runs it on all immediate child directories, at depth = 1.
 
-That is, it does not run the command in deeply nested folders within folders, only immediate one.
+It does not run the command in deeply nested folders within folders, only the immediate one.
 
 Why useful?
 
